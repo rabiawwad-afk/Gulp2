@@ -1,2 +1,2 @@
-# Gulp-game
+# Gulpgame
 Games
